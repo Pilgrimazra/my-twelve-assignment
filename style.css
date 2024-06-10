@@ -47,4 +47,10 @@ button{
     -ms-transform:translateX(-50%);
 }
 
+select{
+    width: 400px;
+}
 
+#new{
+    width: 370px;
+}
