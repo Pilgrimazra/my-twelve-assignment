@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+.main{
+background-color: rgb(90, 85, 85);
+    display: relative;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+img{
+    width: 1500px;
+}
+
+.head{
+
+    text-align: center;
+    color: #fff;
+    z-index: 2;
+}
+.main h1, p{
+    color: #fff;
+    text-align: center;
+   
+   
+}
+
+.one{
+background-color: rgb(13, 9, 37);
+height:auto;
+color: white;
+width:fit-content;
+text-align: left;
+margin: auto;
+z-index: 1;
+}
+
+button{
+     color: #fff;
+     background-color: green;
+     width: 200px;
+     height: 50px;
+     border: none;
+     padding: 5px;
+     margin: auto;
+    -ms-transform:translateX(-50%);
+}
+
+
